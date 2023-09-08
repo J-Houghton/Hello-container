@@ -1,0 +1,4 @@
+# Start with an image with DOTNET SDK prenstalled 
+From mcr.microsoft.com/dotnet/sdk"6.0
+    
+# Install Docker 
